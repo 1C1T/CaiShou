@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
-# 32位python运行
+#    作者  :  Limit
+#    企鹅  :  599772335
+#    群聊  :  928286446
+#    日期  :  2025.2.10
+# ---------------------
+
 import time
 import tkinter.messagebox
 import tkinter as tk
